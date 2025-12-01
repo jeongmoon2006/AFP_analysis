@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# MD simulation files
+*.xtc
+*.trr
+*.tpr
+*.gro
+*.top
+*.mdp
+*.itp
+*.pdb
+
 # Distribution / packaging
 .Python
 build/
